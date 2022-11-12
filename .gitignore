@@ -139,3 +139,10 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-28-15-42-16/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-28-15-42-16/validation/events.out.tfevents.1666958481.DESKTOP-VQVBC6H.1352.1.v2
 artifacts/training/model.h5
 .dvcignore
+.dvc/.gitignore
+.dvc/config
+artifacts/.gitignore
+artifacts/data_ingestion/.gitignore
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-05-14-41-10/train/events.out.tfevents.1667639474.DESKTOP-VQVBC6H.23304.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-05-14-41-10/validation/events.out.tfevents.1667646028.DESKTOP-VQVBC6H.23304.1.v2
+.gitignore
